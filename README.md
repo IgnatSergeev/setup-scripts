@@ -3,10 +3,6 @@ First of all:
 or read this short README up to the end, at least...
 
 
-# TODO
-1. Add trik ros
-
-# Description
 1. Long story short, to install build pre-requisites, run (for Debian/Ubuntu/Mint):
 
     ```shell
